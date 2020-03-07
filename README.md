@@ -18,8 +18,8 @@ SO THAT I can plan my workouts better
 
 ![Weather-Dashboard](images/Capture.JPG)
 
-## GitHub Pages Link
-https://christianlance85.github.io/Weather-Dashboard/
+## Heroku Link
+https://desolate-tor-76462.herokuapp.com/?id=5e63b63edb98110017aafa87
 
 
 ## Installation
@@ -29,6 +29,6 @@ With GitHub account, clone or download repository using link.
 
 ## Usage
 
-This will application will assist users with planning out their travel Schedule.
-You are able to type in the search bar, whichever city you are planning to go to
-and from there the weather results over a 5 day period will show up.
+This will application will assist users with storing workouts
+You are able to enter your workouts and track the output you give.
+and from there you can add new excercises or view your workouts.
