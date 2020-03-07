@@ -16,7 +16,7 @@ SO THAT I can plan my workouts better
 
 ## Screenshot of Completed Application
 
-![Weather-Dashboard](images/Capture.JPG)
+![Workout-Tracker](/public/images/workout tracker.JPG)
 
 ## Heroku Link
 https://desolate-tor-76462.herokuapp.com/?id=5e63b63edb98110017aafa87
